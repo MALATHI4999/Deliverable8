@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-13T15:23:14 IST" name="Default suite" finished-at="2022-01-13T15:23:34 IST" duration-ms="19217">
+    <groups>
+    </groups>
+    <test started-at="2022-01-13T15:23:14 IST" name="Default test" finished-at="2022-01-13T15:23:34 IST" duration-ms="19217">
+      <class name="com.test.example.calculator">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.example.calculator@49049a04]" started-at="2022-01-13T15:23:14 IST" name="setup" finished-at="2022-01-13T15:23:21 IST" duration-ms="6330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sum()[pri:1, instance:com.test.example.calculator@49049a04]" started-at="2022-01-13T15:23:21 IST" name="sum" finished-at="2022-01-13T15:23:24 IST" duration-ms="2944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="subtraction()[pri:2, instance:com.test.example.calculator@49049a04]" started-at="2022-01-13T15:23:24 IST" name="subtraction" finished-at="2022-01-13T15:23:26 IST" duration-ms="2407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtraction -->
+        <test-method signature="multiplication()[pri:3, instance:com.test.example.calculator@49049a04]" started-at="2022-01-13T15:23:26 IST" name="multiplication" finished-at="2022-01-13T15:23:29 IST" duration-ms="2402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method signature="division()[pri:4, instance:com.test.example.calculator@49049a04]" started-at="2022-01-13T15:23:29 IST" name="division" finished-at="2022-01-13T15:23:31 IST" duration-ms="2686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method signature="Modulo()[pri:5, instance:com.test.example.calculator@49049a04]" started-at="2022-01-13T15:23:31 IST" name="Modulo" finished-at="2022-01-13T15:23:34 IST" duration-ms="2362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Modulo -->
+      </class> <!-- com.test.example.calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
